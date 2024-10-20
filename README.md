@@ -1,4 +1,4 @@
-# NopCommerce-Project-Using-SHAFT-ENGINE
+# NopCommerce-Project-Using-Playwright Framework & Typescript.
 # Project Details:
 ## Main Framework used:
 * [SHAFT_Engine](https://github.com/ShaftHQ/SHAFT_ENGINE) <br><img height="100" title="SHAFT_Engine" src="https://github.com/ShaftHQ/SHAFT_ENGINE/blob/main/src/main/resources/images/shaft.png">
