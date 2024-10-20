@@ -1,7 +1,7 @@
 # NopCommerce-Project-Using-Playwright Framework & Typescript.
 # Project Details:
 ## Main Framework used:
-* title="Playwright" src="https://playwright.dev/img/playwright-logo.svg">
+*  src="https://playwright.dev/img/playwright-logo.svg">
 ## Website used:
 * [NopCommerce](https://demo.nopcommerce.com/) <br><img alt="nopCommerce demo store" src="https://demo.nopcommerce.com/Themes/DefaultClean/Content/images/logo.png">
 ## Project Design:
