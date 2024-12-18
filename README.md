@@ -1,13 +1,23 @@
-# NopCommerce-Project-Using-Playwright Framework & Typescript.
-# Project Details:
-## Main Framework used:
-* Playwright <br><img height="100" title="Playwright" src="https://playwright.dev/img/playwright-logo.svg">
-## Website used:
-* [NopCommerce](https://demo.nopcommerce.com/) <br><img alt="nopCommerce demo store" src="https://demo.nopcommerce.com/Themes/DefaultClean/Content/images/logo.png">
-## Project Design:
-* Page Object Model (POM) Design Pattern.
-* Data Driven framework (JSON files).
-## Note:-
- * The Website Developer added the CAPTCHA After I finished the Automation Script.
+# 🚀 NopCommerce Automation Project Using Playwright Framework & TypeScript  
 
-## Project Done By : Mohamed Yehia
+## 📌 Project Details:  
+
+### 🛠️ Main Framework Used:  
+* **Playwright**  
+  <br><img height="100" title="Playwright" src="https://playwright.dev/img/playwright-logo.svg">  
+
+### 🌐 Website Used:  
+* [NopCommerce](https://demo.nopcommerce.com/)  
+  <br><img alt="nopCommerce demo store" src="https://demo.nopcommerce.com/Themes/DefaultClean/Content/images/logo.png">  
+
+### 🧩 Project Design:  
+* 🏗️ **Page Object Model (POM)** Design Pattern.  
+* 📊 **Data-Driven Framework** using JSON files.  
+
+### ⚠️ Note:  
+* The website developer added a CAPTCHA after the automation script was completed, which presented an additional challenge for automated testing.  
+
+---
+
+## 👨‍💻 Project Done By:  
+**Mohamed Yehia**  
